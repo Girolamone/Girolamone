@@ -27,9 +27,3 @@ Hi! I am Filippo, a 31 years old chap passionated about web development and gami
 
 ![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=girolamone&show_icons=true&theme=gruvbox)
 
-
-
-#
-
-[website]: https://filippoiori.netlify.com
-[linkedin]: https://www.linkedin.com/in/filippo-iori-000a55138/
