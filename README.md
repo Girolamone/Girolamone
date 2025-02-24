@@ -2,7 +2,7 @@
 
 **`Front End Developer (React.js/Javascript)`**
 
-Hi! I am Filippo, a 31 years old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take an online course to improve my IT skills and become a Frontend Developer.
+Hi! I am Filippo, an old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take an online course to improve my IT skills and become a Frontend Developer.
 
    
 
