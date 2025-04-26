@@ -2,7 +2,7 @@
 
 **`Full Stack Developer (React.js/Next.js)`**
 
-Hi! I am Filippo, an old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take an online course to improve my IT skills and become a Web Developer.
+Hi! I am Filippo, an old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take on a journey to improve my IT skills and become a Web and Game Developer.
 
    
 
