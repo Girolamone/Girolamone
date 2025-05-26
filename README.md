@@ -1,6 +1,6 @@
 # 🎮 Filippo Iori
 
-**`Full Stack Developer (React.js/Next.js)`**
+**`Full Stack Developer (React.js/Next.js/Node.js)`**
 
 Hi! I am Filippo, an old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take on a journey to improve my IT skills and become a Web and Game Developer.
 
