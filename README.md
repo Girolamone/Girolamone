@@ -51,11 +51,6 @@ Built in Unity.
 
 **Always** — Git, and clear commit messages
 
----
-
-## 📊 Stats
-
-![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=girolamone&show_icons=true&theme=dracula)
 
 ---
 
