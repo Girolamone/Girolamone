@@ -1,9 +1,24 @@
-# Filippo Iori
+# 🎮 Filippo Iori
 
-**`Full Stack Developer`** — Go · TypeScript · React · GraphQL · Postgres
+Hi! I am Filippo, an old chap passionated about web development and gaming. I have approached the world of IT and Gaming since i was a little kid, discovering a strong interest about it, which is why, after trying with many life paths, I decided to take on a journey to improve my IT skills and become a Web and Game Developer.
 
-**`Game Developer`** — C# · Unity
+**`Full Stack Developer`** & **`Game Developer`** 
 
----
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23585858" />
+<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/csharp/original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+### 📊 Stats
+
+![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=girolamone&show_icons=true&theme=dracula)
+
 
 📍 Italy · 💼 Open to remote work · ✉️ filippoiori93@gmail.com
